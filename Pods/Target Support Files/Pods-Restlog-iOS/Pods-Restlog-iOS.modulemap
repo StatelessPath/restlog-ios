@@ -1,0 +1,6 @@
+framework module Pods_Restlog_iOS {
+  umbrella header "Pods-Restlog-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
